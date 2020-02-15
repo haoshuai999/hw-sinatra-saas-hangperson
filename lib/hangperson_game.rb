@@ -44,7 +44,6 @@ class HangpersonGame
         displayed_word += "-"
       end
     end
-    puts displayed_word
     return displayed_word
   end
 
